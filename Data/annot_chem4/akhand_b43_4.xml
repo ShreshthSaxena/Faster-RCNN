@@ -1,0 +1,1 @@
+<annotation><filename>akhand_b43_4.jpg</filename><folder>images_chem4</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>Dislocation</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>631</xmin><ymin>181</ymin><xmax>698</xmax><ymax>386</ymax></bndbox></object></annotation>

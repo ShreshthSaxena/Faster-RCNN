@@ -1,0 +1,1 @@
+<annotation><filename>akhand_b43_576.jpg</filename><folder>images_chem4</folder><size><width>1600</width><height>1200</height><depth>3</depth></size><object><name>Dent</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>753</xmin><ymin>934</ymin><xmax>876</xmax><ymax>1043</ymax></bndbox></object></annotation>

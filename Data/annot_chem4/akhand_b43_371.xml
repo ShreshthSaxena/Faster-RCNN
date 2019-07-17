@@ -1,0 +1,1 @@
+<annotation><filename>akhand_b43_371.jpg</filename><folder>images_chem4</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>Scratch_or_spot</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>446</xmin><ymin>336</ymin><xmax>531</xmax><ymax>387</ymax></bndbox></object></annotation>

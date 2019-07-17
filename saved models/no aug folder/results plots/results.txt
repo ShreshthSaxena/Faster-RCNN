@@ -1,0 +1,20 @@
+# AP and precision/recall per class
+29.41% = Dent AP 
+ Precision: ['1.00', '1.00', '1.00', '1.00', '1.00']
+ Recall :['0.06', '0.12', '0.18', '0.24', '0.29']
+
+8.82% = Scratch_or_spot AP 
+ Precision: ['1.00', '0.50', '0.33', '0.50', '0.40', '0.33', '0.29', '0.25', '0.22', '0.20']
+ Recall :['0.06', '0.06', '0.06', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12', '0.12']
+
+
+# mAP of all classes
+mAP = 19.12%
+
+# Number of ground-truth objects per class
+Dent: 17
+Scratch_or_spot: 17
+
+# Number of detected objects per class
+Dent: 5 (tp:5, fp:0)
+Scratch_or_spot: 10 (tp:2, fp:8)

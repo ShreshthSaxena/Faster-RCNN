@@ -1,0 +1,1 @@
+<annotation><filename>akhand_b43_77.jpg</filename><folder>images_chem4</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>Shatter</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>376</xmin><ymin>219</ymin><xmax>537</xmax><ymax>378</ymax></bndbox></object></annotation>

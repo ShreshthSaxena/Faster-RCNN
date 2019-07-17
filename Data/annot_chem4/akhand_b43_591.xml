@@ -1,0 +1,1 @@
+<annotation><filename>akhand_b43_591.jpg</filename><folder>images_chem4</folder><size><width>1600</width><height>1200</height><depth>3</depth></size><object><name>Large_tear_or_damage</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>235</xmin><ymin>493</ymin><xmax>813</xmax><ymax>886</ymax></bndbox></object></annotation>
